@@ -4,7 +4,7 @@ This is an API build to aggregate different price reports provided by diffrent u
 
 ## HOW TO GET STARTED
 1) npm install
-2) node start or nodemon server.js
+2) node server.js or nodemon server.js
 
 ## TO TEST
 1) npm test
