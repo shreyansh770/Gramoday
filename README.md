@@ -1,5 +1,7 @@
 ## Gramoday
 
+This is an API build to aggregate different price reports provided by diffrent user of same commodity from the same market to get a mean price per kilograms
+
 ## HOW TO GET STARTED
 1) npm install
 2) node start or nodemon server.js
