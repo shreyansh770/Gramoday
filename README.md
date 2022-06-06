@@ -2,7 +2,7 @@
 
 ## HOW TO GET STARTED
 1) npm install
-2) npm start or nodemon server.js
+2) node start or nodemon server.js
 
 ## TO TEST
 1) npm test
@@ -21,3 +21,10 @@
 2) here 'id' is the _id of aggregated report
 
 ![2022-06-07 (2)](https://user-images.githubusercontent.com/56127597/172233083-6e3c7f85-27fd-451d-ae48-7e4f46d14efd.png)
+
+## FOR TESTING 
+1) Let the server run and along that run npm test
+2) There are two tests 
+  2.1) one for /reports -> to check Whether the response being send is correct
+  2.2) another for /reports/?id -> to check we are getting correct combined report
+![2022-06-07 (4)](https://user-images.githubusercontent.com/56127597/172233636-da015a3a-014f-471c-91b7-d252bf52f6ac.png)
